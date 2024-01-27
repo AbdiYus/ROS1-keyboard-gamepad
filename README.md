@@ -1,5 +1,5 @@
 # ROS1-keyboard-gamepad
-A ROS node that integrates keyboard input or gamepad input (ps5) and sends it to a topic. 
+A ROS node designed to capture input from a keyboard or a PS5 gamepad and publish it to a specified ROS topic.
 ## Installing 
 The keyboard node uses the pynput library.  
 ```
